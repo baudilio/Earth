@@ -1,0 +1,3 @@
+# BTA --- ignore executables, module and object files. 
+*.png
+BTA_ReadMe.txt
